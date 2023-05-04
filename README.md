@@ -25,7 +25,6 @@ I'm Laryssa, a Site Reability Engineer based in Brazil 🇧🇷
 ![](https://img.shields.io/badge/Application%20Performance%20Monitoring-New%20Relic-informational?style=flat&logo=new-relic&logoColor=white&color=008C)
 ![](https://img.shields.io/badge/ELK-Open%20Source-informational?style=flat&logo=elastic-stack&logoColor=white&color=008C)
 ![](https://img.shields.io/badge/Workflow%20Automation-Argo-informational?style=flat&logo=argo-workflows&logoColor=white&color=2C3E50)
-![](https://img.shields.io/badge/Continuous%20Integration-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
 ![](https://img.shields.io/badge/Job%20Scheduling-Rundeck-informational?style=flat&logo=rundeck&logoColor=white&color=474747)
 ![](https://img.shields.io/badge/Project%20Management-Jira-informational?style=flat&logo=jira&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/Documentation-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=172B4D)
