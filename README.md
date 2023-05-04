@@ -2,6 +2,7 @@
 
 I'm Laryssa, a Site Reability Engineer based in Brazil 🇧🇷
 
+- 😄 Pronouns: She/her.
 - 🏃‍♀️ I’m currently working on [Dafiti Group](dafiti.com.br).
 - 📚 I’m currently learning Python and Terraform.
 - ❤️ I’m a open source technology and DevOps enthusiast.
