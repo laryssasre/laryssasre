@@ -34,3 +34,5 @@ I'm Laryssa, a Site Reability Engineer based in Brazil 🇧🇷
 ![](https://img.shields.io/badge/Application%20Performance%20Monitoring-Datadog-informational?style=flat&logo=datadog&logoColor=white&color=632CA6)
 ![](https://img.shields.io/badge/Application%20Performance%20Monitoring-New%20Relic-informational?style=flat&logo=new-relic&logoColor=white&color=008C)
 ![](https://img.shields.io/badge/ELK-Open%20Source-informational?style=flat&logo=elastic-stack&logoColor=white&color=008C)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
+
