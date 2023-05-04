@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**laryssasre/laryssasre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Laryssa, a Site Reability Engineer based in Brazil 🇧🇷
 
-Here are some ideas to get you started:
+- 🏃‍♀️ I’m currently working on [Dafiti Group](dafiti.com.br).
+- 📚 I’m currently learning Python and Terraform.
+- ❤️ I’m a open source technology and DevOps enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🫂 Connect with me
+<a href="https://www.linkedin.com/in/laryssasaraujo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:laryssasaraujo@outlook.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
+
+## 🏅 Certifications
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100">
+
+
+## 🖥️ Technologies & Tools
+![](https://img.shields.io/badge/Cloud-Amazon%20Web%20Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Infrastructure-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=623CE4)
+![](https://img.shields.io/badge/Container%20Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Configuration%20Management-Puppet-informational?style=flat&logo=puppet&logoColor=white&color=FFAE1A)
+![](https://img.shields.io/badge/Workflow%20Automation-Argo-informational?style=flat&logo=argo-workflows&logoColor=white&color=2C3E50)
+![](https://img.shields.io/badge/Continuous%20Integration-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
+![](https://img.shields.io/badge/Job%20Scheduling-Rundeck-informational?style=flat&logo=rundeck&logoColor=white&color=474747)
+![](https://img.shields.io/badge/Project%20Management-Jira-informational?style=flat&logo=jira&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/Documentation-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=172B4D)
+![](https://img.shields.io/badge/Log%20Management-Graylog-informational?style=flat&logo=graylog&logoColor=white&color=FF9800)
+![](https://img.shields.io/badge/Application%20Performance%20Monitoring-Instana-informational?style=flat&logo=instana&logoColor=white&color=32B0AE)
+![](https://img.shields.io/badge/Monitoring-Zabbix-informational?style=flat&logo=zabbix&logoColor=white&color=DC382D)
+![](https://img.shields.io/badge/Data%20Visualization-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=F46800)
+![](https://img.shields.io/badge/Caching-Memcached-informational?style=flat&logo=memcached&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Operating%20System-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Application%20Performance%20Monitoring-Datadog-informational?style=flat&logo=datadog&logoColor=white&color=632CA6)
+![](https://img.shields.io/badge/Application%20Performance%20Monitoring-New%20Relic-informational?style=flat&logo=new-relic&logoColor=white&color=008C)
+![](https://img.shields.io/badge/ELK-Open%20Source-informational?style=flat&logo=elastic-stack&logoColor=white&color=008C)
