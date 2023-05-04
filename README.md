@@ -19,6 +19,7 @@ I'm Laryssa, a Site Reability Engineer based in Brazil 🇧🇷
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Infrastructure-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=623CE4)
 ![](https://img.shields.io/badge/Container%20Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Configuration%20Management-Puppet-informational?style=flat&logo=puppet&logoColor=white&color=FFAE1A)
 ![](https://img.shields.io/badge/Operating%20System-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Application%20Performance%20Monitoring-Datadog-informational?style=flat&logo=datadog&logoColor=white&color=632CA6)
