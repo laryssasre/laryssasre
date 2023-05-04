@@ -7,10 +7,6 @@ I'm Laryssa, a Site Reability Engineer based in Brazil 🇧🇷
 - 📚 I’m currently learning Python and Terraform.
 - ❤️ I’m a open source technology and DevOps enthusiast.
 
-## 🫂 Connect with me
-<a href="https://www.linkedin.com/in/laryssasaraujo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:laryssasaraujo@outlook.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
-
 ## 🏅 Certifications
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100">
 
