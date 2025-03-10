@@ -1,14 +1,9 @@
 # Hello!
 
-I'm Laryssa, a Site Reability Engineer based in Brazil 🇧🇷
-
-- 😄 Pronouns: She/her.
-- 🏃‍♀️ I’m currently working on [Dafiti Group](dafiti.com.br).
-- 📚 I’m currently learning Python and Terraform.
-- ❤️ I’m a open source technology and DevOps enthusiast.
+I'm Laryssa, a Cloud Engineer/DevOps based in Brazil!🇧🇷
 
 ## 🏅 Certifications
-  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100"> <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100">
 
 
 ## 🖥️ Technologies & Tools
